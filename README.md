@@ -7,4 +7,4 @@
 
 ## Referências
 
-- (Effectively Using Matplotlib)[http://pbpython.com/effective-matplotlib.html]
+- [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)
