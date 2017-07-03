@@ -7,5 +7,7 @@
 
 ## Referências
 
+- [Jupyter Notebook Basics
+](http://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb)
 - [Effectively Using Matplotlib](http://pbpython.com/effective-matplotlib.html)
 - [Pandas & Seaborn - A guide to handle & visualize data elegantly](https://tryolabs.com/blog/2017/03/16/pandas-seaborn-a-guide-to-handle-visualize-data-elegantly/)
